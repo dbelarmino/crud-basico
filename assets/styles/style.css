@@ -1,0 +1,9 @@
+.material-icons {
+  font-size: 30px;
+  color: #000;
+  transition-duration: 0.2s;
+}
+.material-icons:hover {
+  opacity: 0.7;
+  transition-duration: 0.2s;
+}
